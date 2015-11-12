@@ -20,7 +20,7 @@ To create a Issue must follow some simple steps now enumerate:
 <img src="https://help.github.com/assets/images/help/profile/profile_repositories_tab.png" alt="img2" />
 <hr />
 3)Click the Issues tab for your repository.
-<img src="https://help.github.com/assets/images/help/repository/repo-tabs-issues.png" width="100" height="240"> 
+</br><img src="https://help.github.com/assets/images/help/repository/repo-tabs-issues.png" width="100" height="240"> <br />
 
 
 </html>
