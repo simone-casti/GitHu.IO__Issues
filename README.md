@@ -6,14 +6,8 @@ The Issue can also be used by programmers themselves to embed images within a re
 #How create an "ISSUE"
 To create a Issue must follow some simple steps now enumerate:
 
-
-
-1) In the top right corner of any page, click your profile photo, then click Your profile.
-
-
-
 <html>
 <body>
-prova html
+1) In the top right corner of any page, click your profile photo, then click Your profile.
 </body>
 </html>
