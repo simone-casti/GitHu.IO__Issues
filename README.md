@@ -30,5 +30,10 @@ To create a Issue must follow some simple steps now enumerate:
 <hr noshade size="5" width="50%" align="center" />
 7)When you're finished, click <b>Submit new issue</b>.
 <hr noshade size="5" width="100%" align="center" />
-
+You'll be subscribed to the issue, and notified of any updates <a target="_blank" href="https://help.github.com/articles/about-notifications/">notified of any updates</a>, including when it's closed.
 </html>
+
+
+
+
+ 
