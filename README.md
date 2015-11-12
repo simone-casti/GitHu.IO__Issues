@@ -6,7 +6,7 @@ The Issue can also be used by programmers themselves to embed images within a re
 To embed an images in your repository, You must drag the image into the space dedicated to the text.
 </body>
 <body>
-##How create an "ISSUE"
+##How create an "ISSUE" <img src="http://im0.freeforumzone.it/up/0/97/2638944.gif" width="50" height="50">
 To create a Issue must follow some simple steps now enumerate:
 </body>
 </html>
