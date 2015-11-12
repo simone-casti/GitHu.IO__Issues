@@ -9,4 +9,4 @@ To create a Issue must follow some simple steps now enumerate:
 
 
 1)
-
+C:\Users\NoName\Desktop\GITHUB\top_right_avatar.png
