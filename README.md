@@ -16,10 +16,10 @@ To create a Issue must follow some simple steps now enumerate:
 <hr />
 1) In the top right corner of any page, click <b>YOUR PROFILE</b> photo, then click Your profile.<img src="https://help.github.com/assets/images/help/profile/top_right_avatar.png" alt="img1" />
 <hr noshade size="5" width="50%" align="center" />
-2)On your profile page, click the Repositories tab, then click the name of your repository.
+2)On your profile page, click the <b>Repositories</b> tab, then click the name of your repository.
 <img src="https://help.github.com/assets/images/help/profile/profile_repositories_tab.png" alt="img2" />
 <hr noshade size="5" width="50%" align="center" />
-3)Click the Issues tab for your repository.
+3)Click the <b>Issues</b> tab for your repository.
 </br><img src="https://help.github.com/assets/images/help/repository/repo-tabs-issues.png" width="100" height="240"> <br />
 <hr noshade size="5" width="50%" align="center" />
 
