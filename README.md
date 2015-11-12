@@ -29,6 +29,6 @@ To create a Issue must follow some simple steps now enumerate:
 6)Optionally, you can <a target="_blank" href="https://help.github.com/articles/assigning-issues-and-pull-requests-to-other-github-users/">assign the issue to someone</a>, <a target="_blank" href="https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests/">associate it with a milestone</a>, or <a target="_blank" href="https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/">apply a label</a>. All of these are optional, so if you're not sure, it's best to let the project maintainer decide what to do.
 <hr noshade size="5" width="50%" align="center" />
 7)When you're finished, click <b>Submit new issue</b>.
-
+<hr noshade size="5" width="100%" align="center" />
 
 </html>
