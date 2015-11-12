@@ -10,6 +10,7 @@ To embed an images in your repository, You must drag the image into the space de
 To create a Issue must follow some simple steps now enumerate:
 </body>
 </html>
+
 <html>
 <body>
 1) In the top right corner of any page, click your profile photo, then click Your profile.<img src="https://help.github.com/assets/images/help/profile/top_right_avatar.png" alt="boh" />
