@@ -10,5 +10,6 @@ To create a Issue must follow some simple steps now enumerate:
 <html>
 <body>
 1) In the top right corner of any page, click your profile photo, then click Your profile.
+<img src="https://help.github.com/assets/images/help/profile/top_right_avatar.png" alt="boh" />
 </body>
 </html>
