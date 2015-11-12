@@ -8,6 +8,7 @@ To embed an images in your repository, You must drag the image into the space de
 To create a Issue must follow some simple steps now enumerate:
 
 <html>
+<body background=”http://www.reflex-mania.com/wp-content/uploads/2015/02/paesaggi-06.jpg”>
 <body>
 1) In the top right corner of any page, click your profile photo, then click Your profile.<img src="https://help.github.com/assets/images/help/profile/top_right_avatar.png" alt="boh" />
 
