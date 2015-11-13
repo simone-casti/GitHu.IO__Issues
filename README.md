@@ -46,15 +46,15 @@ Keywords for closing issues
 </b></br>
 The following keywords will close an issue via commit message:
 <dfn>
-<p>1)close
-<p>2)closes
-<p>3)closed
-<p>3)fix
-<p>4)fixes
-<p>5)fixed
-<p>6)resolve
-<p>7)resolves
-<p>8)resolved
+<p>1)`close`
+<p>2)`closes`
+<p>3)`closed`
+<p>3)`fix`
+<p>4)`fixes`
+<p>5)`fixed`
+<p>6)`resolve`
+<p>7)`resolves`
+<p>8)`resolved`
 </dfn>
 
 #####Closing an issue in a different repository
