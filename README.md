@@ -44,5 +44,17 @@ If the commit is in a non-default branch, the issue will remain open and the iss
 <br><b>
 Keywords for closing issues
 </b></br>
+The following keywords will close an issue via commit message:
+<dfn>
+1)close
+2)closes
+3)closed
+3)fix
+4)fixes
+5)fixed
+6)resolve
+7)resolves
+8)resolved
+</dfn>
 </body>
 </html>
