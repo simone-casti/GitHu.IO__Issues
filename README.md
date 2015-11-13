@@ -1,5 +1,5 @@
-<h1>What's an "Issue"?</h1> <img src="http://smiles24.ru/data/smiles/smiles-dumy-73.gif" width="50" height="50">
 <html>
+<h1>What's an "Issue"?</h1> <img src="http://smiles24.ru/data/smiles/smiles-dumy-73.gif" width="50" height="50">
 <body>
 Write a "ISSUE" on github for reporting who wrote a certain "Repository" an error in the code. It is usually written by people with more experience. The 'Issue is like a comment, the programmer may want to consider or not. If it is taken into consideration then he will write an Issue response to those who reported the error.
 The Issue can also be used by programmers themselves to embed images within a repository they are writing.
