@@ -61,5 +61,6 @@ The following keywords will close an issue via commit message:
 To close an issue in another repository, use the <strong><dfn>username/repository#issue_number syntax</dfn></strong>, as described in "Writing on GitHub".
 
 For example, including <strong><dfn><input name="texts" type="text" value="Closes example_user/example_repo#76" size="40" maxlength="200" /></dfn></strong> will close the referenced issue in that repository, provided you have push access to that repository.
+<b>`I hope this little guide will be helpful `</b>
 </body>
 </html>
