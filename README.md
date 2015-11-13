@@ -54,7 +54,7 @@ The following keywords will close an issue via commit message:
 <p>6)`fixed`
 <p>7)`resolve`
 <p>8)`resolves`
-<p>9)`resolved`<align="right"> <img src="http://1.bp.blogspot.com/-nsNSp1Oz5gk/UBknDOFLJ1I/AAAAAAAAABg/KPtZ-yfomHU/s1600/gif_animate_comiche_09.gif" width="200" height="200" align=”right”>
+<p>9)`resolved`<align="right"> <br><img src="http://1.bp.blogspot.com/-nsNSp1Oz5gk/UBknDOFLJ1I/AAAAAAAAABg/KPtZ-yfomHU/s1600/gif_animate_comiche_09.gif" width="200" height="200" align=”right”></br>
 </dfn>
 
 #####Closing an issue in a different repository
