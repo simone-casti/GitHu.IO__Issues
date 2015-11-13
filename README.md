@@ -14,13 +14,13 @@ To create a Issue must follow some simple steps now enumerate:
 <html>
 <body>
 <hr />
-1) In the top right corner of any page, click <b>YOUR PROFILE</b> photo, then click Your profile.<img src="https://help.github.com/assets/images/help/profile/top_right_avatar.png" alt="img1" />
+<p>1) In the top right corner of any page, click <b>YOUR PROFILE</b> photo, then click Your profile.<img src="https://help.github.com/assets/images/help/profile/top_right_avatar.png" alt="img1" />
+<hr noshade size="5" width="50%" align="center" /></p>
+<p>2)On your profile page, click the <b>Repositories</b> tab, then click the name of your repository.
+<img src="https://help.github.com/assets/images/help/profile/profile_repositories_tab.png" alt="img2" /></p>
 <hr noshade size="5" width="50%" align="center" />
-2)On your profile page, click the <b>Repositories</b> tab, then click the name of your repository.
-<img src="https://help.github.com/assets/images/help/profile/profile_repositories_tab.png" alt="img2" />
-<hr noshade size="5" width="50%" align="center" />
-3)Click the <b>Issues</b> tab for your repository.
-</br><img src="https://help.github.com/assets/images/help/repository/repo-tabs-issues.png" width="100" height="240" alt=img3> <br />
+<p>3)Click the <b>Issues</b> tab for your repository.
+</br><img src="https://help.github.com/assets/images/help/repository/repo-tabs-issues.png" width="100" height="240" alt=img3></p> <br />
 <hr noshade size="5" width="50%" align="center" />
 4)Click <b>New Issue</b> </br><img src="https://help.github.com/assets/images/help/issues/new_issues_button.png" alt="img4" /><br />
 <hr noshade size="5" width="50%" align="center" />
