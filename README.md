@@ -33,7 +33,3 @@ To create a Issue must follow some simple steps now enumerate:
 You'll be subscribed to the issue, and notified of any updates <a target="_blank" href="https://help.github.com/articles/about-notifications/">notified of any updates</a>, including when it's closed.
 </html>
 
-
-<font color=”#0000FF”>testo blu</font>
-
- <font color=”red”>
