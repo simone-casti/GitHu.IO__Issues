@@ -22,13 +22,13 @@ To create a Issue must follow some simple steps now enumerate:
 <p>3)Click the <b>Issues</b> tab for your repository.
 </br><img src="https://help.github.com/assets/images/help/repository/repo-tabs-issues.png" width="100" height="240" alt=img3></p> <br />
 <hr noshade size="5" width="50%" align="center" />
-4)Click <b>New Issue</b> </br><img src="https://help.github.com/assets/images/help/issues/new_issues_button.png" alt="img4" /><br />
+<p>4)Click <b>New Issue</b> </br><img src="https://help.github.com/assets/images/help/issues/new_issues_button.png" alt="img4" /></p><br />
 <hr noshade size="5" width="50%" align="center" />
-5)Type a title and description for your issue.</br><img src="https://help.github.com/assets/images/help/issues/sample_issue.png" alt="img4" /><br />
+<p>5)Type a title and description for your issue.</br><img src="https://help.github.com/assets/images/help/issues/sample_issue.png" alt="img4" /></p><br />
 <hr noshade size="5" width="50%" align="center" />
-6)Optionally, you can <a target="_blank" href="https://help.github.com/articles/assigning-issues-and-pull-requests-to-other-github-users/">assign the issue to someone</a>, <a target="_blank" href="https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests/">associate it with a milestone</a>, or <a target="_blank" href="https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/">apply a label</a>. All of these are optional, so if you're not sure, it's best to let the project maintainer decide what to do.
+<p>6)Optionally, you can <a target="_blank" href="https://help.github.com/articles/assigning-issues-and-pull-requests-to-other-github-users/">assign the issue to someone</a>, <a target="_blank" href="https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests/">associate it with a milestone</a>, or <a target="_blank" href="https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/">apply a label</a>. All of these are optional, so if you're not sure, it's best to let the project maintainer decide what to do.</p>
 <hr noshade size="5" width="50%" align="center" />
-7)When you're finished, click <b>Submit new issue</b>.
+<p>7)When you're finished, click <b>Submit new issue</b>.</p>
 <hr noshade size="5" width="100%" align="center" />
 You'll be subscribed to the issue, and notified of any updates <a target="_blank" href="https://help.github.com/articles/about-notifications/">notified of any updates</a>, including when it's closed.
 </html>
