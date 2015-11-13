@@ -1,4 +1,4 @@
-#What's an "Issue"? <img src="http://smiles24.ru/data/smiles/smiles-dumy-73.gif" width="50" height="50">
+<font color=”red”>#What's an "Issue"?</font> <img src="http://smiles24.ru/data/smiles/smiles-dumy-73.gif" width="50" height="50">
 <html>
 <body>
 Write a "ISSUE" on github for reporting who wrote a certain "Repository" an error in the code. It is usually written by people with more experience. The 'Issue is like a comment, the programmer may want to consider or not. If it is taken into consideration then he will write an Issue response to those who reported the error.
@@ -30,7 +30,7 @@ To create a Issue must follow some simple steps now enumerate:
 <hr noshade size="5" width="50%" align="center" />
 7)When you're finished, click <b>Submit new issue</b>.
 <hr noshade size="5" width="100%" align="center" />
-You'll be subscribed to the issue, and notified of any updates <a target="_blank" href="https://help.github.com/articles/about-notifications/"><font color=”red”>notified of any updates</font></a>, including when it's closed.
+You'll be subscribed to the issue, and notified of any updates <a target="_blank" href="https://help.github.com/articles/about-notifications/">notified of any updates</a>, including when it's closed.
 </html>
 
 
