@@ -49,12 +49,12 @@ The following keywords will close an issue via commit message:
 <p>1)`close`
 <p>2)`closes`
 <p>3)`closed`
-<p>3)`fix`<align="right"> <img src="http://1.bp.blogspot.com/-nsNSp1Oz5gk/UBknDOFLJ1I/AAAAAAAAABg/KPtZ-yfomHU/s1600/gif_animate_comiche_09.gif" width="200" height="200" align=”right”>
-<p>4)`fixes`
-<p>5)`fixed`
-<p>6)`resolve`
-<p>7)`resolves`
-<p>8)`resolved`
+<p>4)`fix`<align="right"> <img src="http://1.bp.blogspot.com/-nsNSp1Oz5gk/UBknDOFLJ1I/AAAAAAAAABg/KPtZ-yfomHU/s1600/gif_animate_comiche_09.gif" width="200" height="200" align=”right”>
+<p>5)`fixes`
+<p>6)`fixed`
+<p>7)`resolve`
+<p>8)`resolves`
+<p>9)`resolved`
 </dfn>
 
 #####Closing an issue in a different repository
