@@ -49,7 +49,7 @@ The following keywords will close an issue via commit message:
 <p>1)`close`
 <p>2)`closes`
 <p>3)`closed`
-<p>3)`fix`  <img src="http://1.bp.blogspot.com/-nsNSp1Oz5gk/UBknDOFLJ1I/AAAAAAAAABg/KPtZ-yfomHU/s1600/gif_animate_comiche_09.gif" width="50" height="50">
+<p>3)`fix`<img src=”http://1.bp.blogspot.com/-nsNSp1Oz5gk/UBknDOFLJ1I/AAAAAAAAABg/KPtZ-yfomHU/s1600/gif_animate_comiche_09.gif” width=”224″height=”69″border=”1″align=”left”>
 <p>4)`fixes`
 <p>5)`fixed`
 <p>6)`resolve`
