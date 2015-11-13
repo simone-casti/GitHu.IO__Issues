@@ -31,9 +31,18 @@ To create a Issue must follow some simple steps now enumerate:
 <p>7)When you're finished, click <b>Submit new issue</b>.</p>
 <hr noshade size="5" width="100%" align="center" />
 You'll be subscribed to the issue, and notified of any updates <a target="_blank" href="https://help.github.com/articles/about-notifications/">notified of any updates</a>, including when it's closed.
-</html>
+
 ###Closing issues via commit messages
-<html>
+
 <body>
 You can include keywords in your commit messages to automatically close issues in GitHub.
 </body>
+####Closing an issue in the same repository
+<body>
+To close an issue in the same repository, use one of the keywords in the list below followed by a reference to the issue number in the commit message. For example, a commit message with Fixes #45 will close issue 45 in that repository once the commit is merged into the default branch.
+If the commit is in a non-default branch, the issue will remain open and the issue will be referenced with a tooltip.
+<b>
+Keywords for closing issues
+</b>
+</body>
+</html>
