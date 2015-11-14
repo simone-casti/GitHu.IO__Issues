@@ -62,6 +62,6 @@ To close an issue in another repository, use the <strong><dfn>username/repositor
 
 For example, including <strong><dfn><input name="texts" type="text" value="Closes example_user/example_repo#76" size="40" maxlength="200" /></dfn></strong> will close the referenced issue in that repository, provided you have push access to that repository.
 
-<br><center><b>`I hope this little guide will be helpful `</b><br><img src="http://www.ilaro.it/gif/jonnybravo.gif" width="100" height="100" ></br> </center>
+<br><center><b align="center">`I hope this little guide will be helpful `</b><br><img src="http://www.ilaro.it/gif/jonnybravo.gif" width="100" height="100" align="center"></br> </center>
 </body>
 </html>
